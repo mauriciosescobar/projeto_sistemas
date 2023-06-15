@@ -1,1 +1,1 @@
-# projeto_sistemas
+# Repositório para testes da disciplina de projeto de sistemas.
